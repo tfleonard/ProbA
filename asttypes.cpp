@@ -35,3 +35,21 @@ vector<ast *>::iterator it;
 	}
 
 }
+
+
+ast *astVect::eval(void) {
+	
+	
+}
+
+
+ast *astNum::eval(void) {
+	
+	
+}
+
+
+
+}
+
+

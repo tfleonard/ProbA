@@ -15,13 +15,17 @@ class astAdd : ast {
 		
 };
 
+
 class astVect : ast {
 	
 	ast *eval(void);
 };
 
 
-
+class astNum : ast {
+	
+	ast *eval(void);
+};
 
 
 
