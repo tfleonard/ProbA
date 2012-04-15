@@ -27,7 +27,10 @@ class astNum : ast {
 	ast *eval(void);
 };
 
-
+class ast2dArray : ast {
+	
+	ast *eval(void);
+};
 
 
 
