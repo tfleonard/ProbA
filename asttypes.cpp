@@ -48,3 +48,9 @@ ast *astNum::eval(void) {
 	
 }
 
+
+ast *ast2dArray::eval(void) {
+	
+	
+	
+}
